@@ -57,9 +57,11 @@ border-top: 1px solid rgba(225, 225, 225, 0.05);
 }
 .wrapper .sidebar ul li:hover {
     background-color: #FFDC99;
+    text-decoration: none;
 }
 .wrapper .sidebar ul li:hover a{
     color: #fff;
+    text-decoration: none;
 }
 .cartoon{
     text-decoration: underline;
