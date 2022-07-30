@@ -75,6 +75,7 @@ border-top: 1px solid rgba(225, 225, 225, 0.05);
     padding-right: 20px;
     padding-left: 270px; 
     padding-top: 20px;
+    padding-bottom: 20px;
 }
 .container{
     padding-right: 20px;
@@ -91,26 +92,46 @@ border-top: 1px solid rgba(225, 225, 225, 0.05);
     top:30px;
     left: 290px;
     color: #fff;
+    font-size: 30px;
 
 }
 .check1{
     position: absolute;
-    bottom: -10px;
+    bottom: 3px;
     right: 25px;
     color: #fff;
     text-decoration: underline;
     cursor:pointer;
+    font-size: 30px;
 }
 .learn {
     position: absolute;
     top:30px;
     left: 290px;
     color: #fff;
+    font-size: 30px;
 }
 .check2{
     position: absolute;
-    bottom: -10px;
+    bottom: 3px;
     right: 25px;
     color: #fff;
     text-decoration: underline;
+    font-size: 30px;
+}
+footer{
+    display: block;
+    background-color: #FBE9C8;
+    display: block;
+    width: 100%;
+    padding: 20px;
+    z-index: 100;
+}
+footer h3{
+    bottom: -10px;
+    right: 25px;
+    color: #000;
+    font-weight: 600;
+    font-family:'Montserrat Alternates', sans-serif;
+    text-align: right;
 }

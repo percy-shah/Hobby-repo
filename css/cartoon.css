@@ -85,3 +85,19 @@ border-top: 1px solid rgba(225, 225, 225, 0.05);
     width: auto;
     height: auto;
 }
+footer{
+    display: block;
+    background-color: #FBE9C8;
+    display: block;
+    width: 100%;
+    padding: 20px;
+    z-index: 100;
+}
+footer h3{
+    bottom: -10px;
+    right: 25px;
+    color: #000;
+    font-weight: 600;
+    font-family:'Montserrat Alternates', sans-serif;
+    text-align: right;
+}
